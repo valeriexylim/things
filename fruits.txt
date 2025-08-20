@@ -3,3 +3,5 @@ bananas
 cherries
 dragon fruits
 kakow
+figs # add another line to fruits.txt
+figs
